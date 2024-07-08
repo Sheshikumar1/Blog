@@ -12,7 +12,12 @@ posts=[
         'author':'nitin',
         'title':'Blog Post 2',
         'content':'second post content',
-        'date_posted':'june 19,2024'}
+        'date_posted':'june 19,2024'},
+        {
+        'author':'Rushikesh',
+        'title':'Blog Post 3',
+        'content':'third post content',
+        'date_posted':'june 20,2024'}
        ]
 
 
